@@ -131,7 +131,7 @@ export class PlannerSettings {
 		font = $state('Roboto');
 		fontDisplay = $state('Bebas Neue');
 		colorText = $state('#424242');
-		colorLines = $state('#e2e2e2');
+		colorLines = $state('#b4b4b4');
 		colorDots = $state('#454545');
 	})();
 
