@@ -152,7 +152,7 @@ export class PlannerSettings {
 	readonly sideNav = new (class SideNavSettings {
 		disable = $state(false);
 		showCollectionLinks = $state(true);
-		width = $state(52);
+		width = $state(37);
 		leftSide = $state(true);
 		font = $state('Bebas Neue');
 	})();
