@@ -38,7 +38,7 @@
 					: 20,
 	);
 	const numLines = $derived(
-		lines ?? (size === 'small' ? 40 : size === 'medium' ? 35 : 30),
+		lines ?? (size === 'small' ? 40 : size === 'medium' ? 35 : 22),
 	);
 </script>
 
