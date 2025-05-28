@@ -161,7 +161,7 @@ export class PlannerSettings {
 	readonly topNav = new (class TopNavSettings {
 		disable = $state(false);
 		showCollectionLinks = $state(true);
-		height = $state(45);
+		height = $state(41);
 		font = $state('Bebas Neue');
 	})();
 

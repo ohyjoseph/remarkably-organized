@@ -136,7 +136,7 @@
 			height: calc(100% - 1rem);
 		}
 		&.lined {
-			padding: 0 2rem 0.80rem 0;
+			padding: 0 2rem 0.765rem 0;
 		}
 		&.numbered {
 			padding: 0 2rem 0.80rem 0;
