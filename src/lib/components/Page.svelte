@@ -136,13 +136,13 @@
 			height: calc(100% - 1rem);
 		}
 		&.lined {
-			padding: 0 2rem 0.76rem 0;
+			padding: 0 2rem 0.73rem 0;
 		}
 		&.numbered {
-			padding: 0 2rem 0.76rem 0;
+			padding: 0 2rem 0.73rem 0;
 		}
 		&.todo {
-			padding: 0 2rem 0.76rem 0;
+			padding: 0 2rem 0.73rem 0;
 		}
 		&.agenda {
 			padding: 0 0 1rem;
